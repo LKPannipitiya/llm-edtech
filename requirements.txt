@@ -1,0 +1,10 @@
+openai #pip install openai
+streamlit #pip install streamlit
+python-dotenv #pip install python-dotenv
+langchain #pip install langchain
+faiss-cpu #pip install faiss-cpu
+protobuf #pip install protobuf
+tiktoken #pip install tiktoken
+jupyter #pip install jupyter
+
+#pip install -r requirements.txt
