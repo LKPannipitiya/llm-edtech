@@ -48,3 +48,6 @@ if prompt := st.chat_input("What is up?"):
 
     # Add the response from the get_qa_chain function to messages
     st.session_state.messages.append({"role": "assistant", "content": qa_chain_response})
+
+
+# this only for testing 123
